@@ -1,5 +1,3 @@
-#BISMILLAH
-
 import sys
 import logging
 import subprocess
