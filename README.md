@@ -1,6 +1,6 @@
 # Usage:
-I made this file is for copying its contents.   
+I made this file to copy its contents.   
    
-Copy the contents run the program to check whether it's runing or not.   
+Copy the contents, run the program and check whether it's runing or not.   
    
-And delete/comment the last lines.   
+Don't forget to comment last lines.   
